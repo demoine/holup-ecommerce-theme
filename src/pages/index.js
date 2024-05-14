@@ -30,7 +30,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/dubb_hero.jpg'}
+        image={'/dubb_hero.webp'}
         title={'Essentials for a cold winter'}
         subtitle={'Discover Autumn Winter 2021'}
         ctaText={'shop now'}
